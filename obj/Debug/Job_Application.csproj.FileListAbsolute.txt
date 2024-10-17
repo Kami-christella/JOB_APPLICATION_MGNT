@@ -1,0 +1,14 @@
+C:\Users\Kami\source\repos\Job_Application\bin\Debug\Job_Application.exe.config
+C:\Users\Kami\source\repos\Job_Application\bin\Debug\Job_Application.exe
+C:\Users\Kami\source\repos\Job_Application\bin\Debug\Job_Application.pdb
+C:\Users\Kami\source\repos\Job_Application\obj\Debug\Job_Application.csproj.AssemblyReference.cache
+C:\Users\Kami\source\repos\Job_Application\obj\Debug\Job_Application.ApplicationForm.resources
+C:\Users\Kami\source\repos\Job_Application\obj\Debug\Job_Application.Form1.resources
+C:\Users\Kami\source\repos\Job_Application\obj\Debug\Job_Application.JobPositionsPage.resources
+C:\Users\Kami\source\repos\Job_Application\obj\Debug\Job_Application.Login.resources
+C:\Users\Kami\source\repos\Job_Application\obj\Debug\Job_Application.Properties.Resources.resources
+C:\Users\Kami\source\repos\Job_Application\obj\Debug\Job_Application.csproj.GenerateResource.cache
+C:\Users\Kami\source\repos\Job_Application\obj\Debug\Job_Application.csproj.CoreCompileInputs.cache
+C:\Users\Kami\source\repos\Job_Application\obj\Debug\Job_Application.exe
+C:\Users\Kami\source\repos\Job_Application\obj\Debug\Job_Application.pdb
+C:\Users\Kami\source\repos\Job_Application\obj\Debug\Job_Application.AdminDashboard.resources
